@@ -24,9 +24,10 @@
 	<img src="https://img.shields.io/badge/axios-5A29E4?style=flat&logo=axios&logoColor=white"/>
 	<img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white"/>
         <br>
-</div>
+	<br>
+</div><br>
 <div align="center">
-	![](https://github-readme-stats.vercel.app/api?username=cyj083386&theme=default&hide_border=false&include_all_commits=false&count_private=false)
-	![](https://github-readme-streak-stats.herokuapp.com/?user=cyj083386&theme=default&hide_border=false)
+	<img src="https://github-readme-stats.vercel.app/api?username=cyj083386&theme=default&hide_border=false&include_all_commits=false&count_private=false"/>
+	<img src=https://github-readme-streak-stats.herokuapp.com/?user=cyj083386&theme=default&hide_border=false/>
 </div>
 </div>
