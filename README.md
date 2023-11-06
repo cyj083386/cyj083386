@@ -25,11 +25,8 @@
 	<img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white"/>
         <br>
 </div>
-
-
-
-
-![](https://github-readme-stats.vercel.app/api?username=cyj083386&theme=default&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=cyj083386&theme=default&hide_border=false)
-
+<div align="center">
+	![](https://github-readme-stats.vercel.app/api?username=cyj083386&theme=default&hide_border=false&include_all_commits=false&count_private=false)
+	![](https://github-readme-streak-stats.herokuapp.com/?user=cyj083386&theme=default&hide_border=false)
+</div>
 </div>
