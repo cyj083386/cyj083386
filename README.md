@@ -2,17 +2,16 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YeongJu's%20github&fontSize=80&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62"/>
 </div>
 
-
-<style>
-	a{text-decoration: none;}
+<style type='text/css'>
+  a{text-decoration: none;}
 </style>
+
 <div align="center">
 	<h3>🖥  Languages and Tools  🖥</h3>
 	<p>
 		<a href="https://www.java.com" target="_blank" rel="noreferrer">
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-		</a>
-		<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+		</a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 		</a>
 	</p>	
