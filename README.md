@@ -6,7 +6,6 @@
 <div align="center">
 	<h3>🖥  Backend Tech Stack  🖥</h3>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
-	
 	<br>
    	<h3>💿 Database Tech Stack 💿</h3>
 	<img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
