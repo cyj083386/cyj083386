@@ -2,7 +2,24 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YeongJu's%20github&fontSize=80&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62"/>
 </div>
 
-<div align="center">
+### 👋 어제보다 오늘 더 나아지는 백엔드 개발자 최영주 입니다.
+#### 💻새로운 개발지식을 얻고 나누기를 좋아합니다.
+
+
+
+
+<br>
+<h3>🏆  Project  🏆</h3>
+
+| PERIOD | TITLE | SUBJECT |
+| ------- | ------- | -------|
+| **2023.10 - .11** | **꽃 배송 서비스** | [**java only로 팀 프로젝트 수행**](https://github.com/) |
+| **2023.09 - .10** | **게시판** | [**CRUD 기능 구현 및 MyBatis 연결한 개인 프로젝트**](https://github.com/cyj083386/prj_javaboard) | 
+| **2023.09 - .10** | **프로필 웹 페이지** | [**CSS/HTML/JavaScript 웹페이지 구현한 개인 프로젝트**](https://github.com/cyj083386/WebPublishing) |
+
+
+<div align="left">
+	<br>
 	<h3>🖥  Backend Tech Stack  🖥</h3>
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 	<br>
@@ -26,7 +43,7 @@
         <br>
 	<br>
 </div><br>
-<div align="center">
+<div align="left">
 	<img src="https://github-readme-stats.vercel.app/api?username=cyj083386&theme=default&hide_border=false&include_all_commits=false&count_private=false"/>
 	<img src=https://github-readme-streak-stats.herokuapp.com/?user=cyj083386&theme=default&hide_border=false/>
 </div>
