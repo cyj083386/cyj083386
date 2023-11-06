@@ -3,9 +3,10 @@
 </div>
 
 
+<style>
+	a{text-decoration: none}
+</style>
 <div align="center">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 	<h3>🖥  Languages and Tools  🖥</h3>
 	<p>
 		<a href="https://www.java.com" target="_blank" rel="noreferrer">
