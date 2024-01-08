@@ -13,6 +13,8 @@
 
 | PERIOD | TITLE | SUBJECT |
 | ------- | ------- | -------|
+
+| **2023.11 - .12** | **선생님 중고나라** | [**jsp, servlet으로 모델2 방식 팀 프로젝트**](https://github.com/cyj083386/teacherFleaMarket) |
 | **2023.10 - .11** | **꽃 배송 서비스** | [**java only로 팀 프로젝트 수행**](https://github.com/cyj083386/team3_project) |
 | **2023.09 - .10** | **게시판** | [**CRUD 기능 구현 및 MyBatis 연결한 개인 프로젝트**](https://github.com/cyj083386/prj_javaboard) | 
 | **2023.09 - .10** | **프로필 웹 페이지** | [**CSS/HTML/JavaScript 웹페이지 구현한 개인 프로젝트**](https://github.com/cyj083386/WebPublishing) |
